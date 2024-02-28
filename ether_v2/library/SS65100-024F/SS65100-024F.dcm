@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SS65100-024F
+D 8 contact, 10 position, vertical mount shielded jack, non-flanged
+K
+F https://belfuse.com/resources/drawings/stewartconnector/dr-stw-ss65100-024f-ss65100-027f.pdf
+$ENDCMP
+#
+#End Doc Library

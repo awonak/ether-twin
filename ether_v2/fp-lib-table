@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "2MD1T1B1M2QES")(type "KiCad")(uri "${KIPRJMOD}/library/2MD1T1B1M2QES")(options "")(descr ""))
+  (lib (name "SS65100-024F")(type "KiCad")(uri "${KIPRJMOD}/library/SS65100-024F")(options "")(descr ""))
+  (lib (name "PJ398SM")(type "KiCad")(uri "${KIPRJMOD}/library/PJ398SM")(options "")(descr ""))
+)
