@@ -2554,7 +2554,7 @@
           (reference "S4") (unit 2)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "S4") (unit 2)
         )
@@ -2585,7 +2585,7 @@
           (reference "D15") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "D14") (unit 1)
         )
@@ -2599,7 +2599,7 @@
     (property "Reference" "J18" (at 359.41 57.9501 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "Ethernet B" (at 359.41 59.8711 0)
+    (property "Value" "SS65100-024F" (at 359.41 59.8711 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "SS65100-024F:SS65100024F" (at 367.03 158.42 0)
@@ -2639,7 +2639,7 @@
           (reference "J18") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "J18") (unit 1)
         )
@@ -2653,7 +2653,7 @@
     (property "Reference" "J4" (at 37.465 115.1001 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "CV B2" (at 37.465 117.0211 0)
+    (property "Value" "PJ398SM" (at 37.465 117.0211 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "PJ398SM:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles_3dModel" (at 38.1 121.92 0)
@@ -2671,7 +2671,7 @@
           (reference "J4") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "J4") (unit 1)
         )
@@ -2705,7 +2705,7 @@
           (reference "R13") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "R13") (unit 1)
         )
@@ -2735,7 +2735,7 @@
           (reference "#PWR03") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "#PWR053") (unit 1)
         )
@@ -2765,7 +2765,7 @@
           (reference "#PWR048") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "#PWR040") (unit 1)
         )
@@ -2795,7 +2795,7 @@
           (reference "#PWR030") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "#PWR018") (unit 1)
         )
@@ -2845,7 +2845,7 @@
           (reference "S1") (unit 2)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "S1") (unit 2)
         )
@@ -2879,7 +2879,7 @@
           (reference "R10") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "R6") (unit 1)
         )
@@ -2893,7 +2893,7 @@
     (property "Reference" "J10" (at 156.845 59.2201 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "CV B5" (at 156.845 61.1411 0)
+    (property "Value" "PJ398SM" (at 156.845 61.1411 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "PJ398SM:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles_3dModel" (at 157.48 66.04 0)
@@ -2911,7 +2911,7 @@
           (reference "J10") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "J11") (unit 1)
         )
@@ -2945,7 +2945,7 @@
           (reference "R19") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "R19") (unit 1)
         )
@@ -2991,7 +2991,7 @@
           (reference "U2") (unit 4)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "U2") (unit 4)
         )
@@ -3021,7 +3021,7 @@
           (reference "#PWR056") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "#PWR048") (unit 1)
         )
@@ -3051,7 +3051,7 @@
           (reference "#PWR047") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "#PWR039") (unit 1)
         )
@@ -3081,7 +3081,7 @@
           (reference "#PWR037") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "#PWR029") (unit 1)
         )
@@ -3115,7 +3115,7 @@
           (reference "R25") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "R25") (unit 1)
         )
@@ -3145,7 +3145,7 @@
           (reference "#PWR03") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "#PWR058") (unit 1)
         )
@@ -3175,7 +3175,7 @@
           (reference "#PWR04") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "#PWR051") (unit 1)
         )
@@ -3205,7 +3205,7 @@
           (reference "#PWR06") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "#PWR013") (unit 1)
         )
@@ -3235,7 +3235,7 @@
           (reference "#PWR011") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "#PWR07") (unit 1)
         )
@@ -3269,7 +3269,7 @@
           (reference "R22") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "R22") (unit 1)
         )
@@ -3299,7 +3299,7 @@
           (reference "#PWR052") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "#PWR044") (unit 1)
         )
@@ -3333,7 +3333,7 @@
           (reference "R20") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "R20") (unit 1)
         )
@@ -3367,7 +3367,7 @@
           (reference "R26") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "R26") (unit 1)
         )
@@ -3397,7 +3397,7 @@
           (reference "#PWR018") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "#PWR023") (unit 1)
         )
@@ -3427,7 +3427,7 @@
           (reference "#PWR041") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "#PWR033") (unit 1)
         )
@@ -3473,7 +3473,7 @@
           (reference "U1") (unit 5)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "U1") (unit 5)
         )
@@ -3503,7 +3503,7 @@
           (reference "#PWR014") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "#PWR06") (unit 1)
         )
@@ -3553,7 +3553,7 @@
           (reference "S3") (unit 2)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "S3") (unit 2)
         )
@@ -3583,7 +3583,7 @@
           (reference "#PWR013") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "#PWR05") (unit 1)
         )
@@ -3613,7 +3613,7 @@
           (reference "#PWR066") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "#PWR049") (unit 1)
         )
@@ -3644,7 +3644,7 @@
           (reference "D7") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "D6") (unit 1)
         )
@@ -3674,7 +3674,7 @@
           (reference "#PWR023") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "#PWR03") (unit 1)
         )
@@ -3704,7 +3704,7 @@
           (reference "#PWR08") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "#PWR054") (unit 1)
         )
@@ -3738,7 +3738,7 @@
           (reference "R21") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "R21") (unit 1)
         )
@@ -3768,7 +3768,7 @@
           (reference "#PWR029") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "#PWR017") (unit 1)
         )
@@ -3798,7 +3798,7 @@
           (reference "#PWR016") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "#PWR015") (unit 1)
         )
@@ -3828,7 +3828,7 @@
           (reference "#PWR046") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "#PWR038") (unit 1)
         )
@@ -3874,7 +3874,7 @@
           (reference "U4") (unit 3)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "U4") (unit 3)
         )
@@ -3920,7 +3920,7 @@
           (reference "U1") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "U1") (unit 1)
         )
@@ -3950,7 +3950,7 @@
           (reference "#PWR02") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "#PWR057") (unit 1)
         )
@@ -4000,7 +4000,7 @@
           (reference "S1") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "S1") (unit 1)
         )
@@ -4031,7 +4031,7 @@
           (reference "D10") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "D11") (unit 1)
         )
@@ -4065,7 +4065,7 @@
           (reference "R15") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "R15") (unit 1)
         )
@@ -4095,7 +4095,7 @@
           (reference "#PWR01") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "#PWR056") (unit 1)
         )
@@ -4109,7 +4109,7 @@
     (property "Reference" "J11" (at 156.845 92.2401 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "CV A6" (at 156.845 94.1611 0)
+    (property "Value" "PJ398SM" (at 156.845 94.1611 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "PJ398SM:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles_3dModel" (at 157.48 99.06 0)
@@ -4127,7 +4127,7 @@
           (reference "J11") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "J10") (unit 1)
         )
@@ -4141,7 +4141,7 @@
     (property "Reference" "J7" (at 36.195 207.8101 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "CV A4" (at 36.195 209.7311 0)
+    (property "Value" "PJ398SM" (at 36.195 209.7311 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "PJ398SM:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles_3dModel" (at 36.83 214.63 0)
@@ -4159,7 +4159,7 @@
           (reference "J7") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "J6") (unit 1)
         )
@@ -4193,7 +4193,7 @@
           (reference "R4") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "R10") (unit 1)
         )
@@ -4207,7 +4207,7 @@
     (property "Reference" "J9" (at 156.845 35.0901 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "CV A5" (at 156.845 37.0111 0)
+    (property "Value" "PJ398SM" (at 156.845 37.0111 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "PJ398SM:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles_3dModel" (at 157.48 41.91 0)
@@ -4225,7 +4225,7 @@
           (reference "J9") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "J9") (unit 1)
         )
@@ -4259,7 +4259,7 @@
           (reference "R28") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "R28") (unit 1)
         )
@@ -4293,7 +4293,7 @@
           (reference "R7") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "R11") (unit 1)
         )
@@ -4327,7 +4327,7 @@
           (reference "R27") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "R27") (unit 1)
         )
@@ -4341,7 +4341,7 @@
     (property "Reference" "J17" (at 320.04 57.9501 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "Ethernet A" (at 320.04 59.8711 0)
+    (property "Value" "SS65100-024F" (at 320.04 59.8711 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "SS65100-024F:SS65100024F" (at 327.66 158.42 0)
@@ -4381,7 +4381,7 @@
           (reference "J17") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "J17") (unit 1)
         )
@@ -4411,7 +4411,7 @@
           (reference "#PWR024") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "#PWR04") (unit 1)
         )
@@ -4441,7 +4441,7 @@
           (reference "#PWR049") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "#PWR041") (unit 1)
         )
@@ -4472,7 +4472,7 @@
           (reference "D8") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "D8") (unit 1)
         )
@@ -4518,7 +4518,7 @@
           (reference "U1") (unit 4)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "U1") (unit 4)
         )
@@ -4568,7 +4568,7 @@
           (reference "S2") (unit 2)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "S2") (unit 2)
         )
@@ -4599,7 +4599,7 @@
           (reference "D5") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "D5") (unit 1)
         )
@@ -4629,7 +4629,7 @@
           (reference "#PWR05") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "#PWR052") (unit 1)
         )
@@ -4659,7 +4659,7 @@
           (reference "#PWR053") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "#PWR045") (unit 1)
         )
@@ -4709,7 +4709,7 @@
           (reference "S4") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "S4") (unit 1)
         )
@@ -4739,7 +4739,7 @@
           (reference "#PWR038") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "#PWR030") (unit 1)
         )
@@ -4785,7 +4785,7 @@
           (reference "U3") (unit 2)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "U3") (unit 2)
         )
@@ -4799,7 +4799,7 @@
     (property "Reference" "J3" (at 37.465 90.9701 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "CV A2" (at 37.465 92.8911 0)
+    (property "Value" "PJ398SM" (at 37.465 92.8911 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "PJ398SM:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles_3dModel" (at 38.1 97.79 0)
@@ -4817,7 +4817,7 @@
           (reference "J3") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "J2") (unit 1)
         )
@@ -4847,7 +4847,7 @@
           (reference "#PWR044") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "#PWR036") (unit 1)
         )
@@ -4893,7 +4893,7 @@
           (reference "U2") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "U2") (unit 1)
         )
@@ -4923,7 +4923,7 @@
           (reference "#PWR032") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "#PWR020") (unit 1)
         )
@@ -4937,7 +4937,7 @@
     (property "Reference" "J1" (at 37.465 33.8201 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "CV A1" (at 37.465 35.7411 0)
+    (property "Value" "PJ398SM" (at 37.465 35.7411 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "PJ398SM:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles_3dModel" (at 38.1 40.64 0)
@@ -4946,16 +4946,16 @@
     (property "Datasheet" "~" (at 38.1 40.64 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "S" (uuid 0f7b0e25-9404-41dd-9f61-604af88c3e1e))
-    (pin "T" (uuid 7f3c899b-d54e-4b3e-bec8-3e89494925f2))
-    (pin "TN" (uuid 390bd96f-7d76-4072-b926-07b0f00fb094))
+    (pin "S" (uuid b1158cfe-d9f2-4246-b4aa-e6259ac89e15))
+    (pin "T" (uuid cac15216-3147-41c3-8fdf-16e8757eb812))
+    (pin "TN" (uuid f64148cb-a331-4bdf-8346-37e934740c7d))
     (instances
       (project "ether_v2"
         (path "/cf2da222-1c30-4cd7-8e54-c5154af0bd94"
           (reference "J1") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "J1") (unit 1)
         )
@@ -5001,7 +5001,7 @@
           (reference "U1") (unit 3)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "U1") (unit 3)
         )
@@ -5031,7 +5031,7 @@
           (reference "#PWR025") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "#PWR09") (unit 1)
         )
@@ -5077,7 +5077,7 @@
           (reference "U3") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "U3") (unit 1)
         )
@@ -5116,7 +5116,7 @@
           (reference "J99") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "J19") (unit 1)
         )
@@ -5150,7 +5150,7 @@
           (reference "R12") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "R8") (unit 1)
         )
@@ -5180,7 +5180,7 @@
           (reference "#PWR026") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "#PWR010") (unit 1)
         )
@@ -5194,7 +5194,7 @@
     (property "Reference" "J12" (at 156.845 116.3701 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "CV B6" (at 156.845 118.2911 0)
+    (property "Value" "PJ398SM" (at 156.845 118.2911 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "PJ398SM:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles_3dModel" (at 157.48 123.19 0)
@@ -5212,7 +5212,7 @@
           (reference "J12") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "J12") (unit 1)
         )
@@ -5242,7 +5242,7 @@
           (reference "#PWR051") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "#PWR043") (unit 1)
         )
@@ -5265,6 +5265,9 @@
     (property "Datasheet" "http://www.vishay.com/docs/88525/1n5817.pdf" (at 309.88 149.86 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "LCSC" "C727113" (at 309.88 149.86 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid ae722ba9-6b21-49b7-914f-3d158abc6994))
     (pin "2" (uuid 094a1dc1-be22-4a75-9030-41ddf7dd7df4))
     (instances
@@ -5273,7 +5276,7 @@
           (reference "D18") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "D18") (unit 1)
         )
@@ -5303,7 +5306,7 @@
           (reference "#PWR034") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "#PWR026") (unit 1)
         )
@@ -5317,7 +5320,7 @@
     (property "Reference" "J14" (at 156.845 174.7901 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "CV B7" (at 156.845 176.7111 0)
+    (property "Value" "PJ398SM" (at 156.845 176.7111 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "PJ398SM:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles_3dModel" (at 157.48 181.61 0)
@@ -5335,7 +5338,7 @@
           (reference "J14") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "J15") (unit 1)
         )
@@ -5365,7 +5368,7 @@
           (reference "#PWR055") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "#PWR047") (unit 1)
         )
@@ -5396,7 +5399,7 @@
           (reference "D14") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "D15") (unit 1)
         )
@@ -5426,7 +5429,7 @@
           (reference "#PWR07") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "#PWR022") (unit 1)
         )
@@ -5449,6 +5452,9 @@
     (property "Datasheet" "http://www.vishay.com/docs/88525/1n5817.pdf" (at 309.88 134.62 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "LCSC" "C727113" (at 309.88 134.62 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid c7d6876d-25c1-4d7a-b22c-e0f1e391e908))
     (pin "2" (uuid e30a770a-a77a-4daf-945a-37ae55d58719))
     (instances
@@ -5457,7 +5463,7 @@
           (reference "D17") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "D17") (unit 1)
         )
@@ -5487,7 +5493,7 @@
           (reference "#PWR010") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "#PWR050") (unit 1)
         )
@@ -5517,7 +5523,7 @@
           (reference "#PWR019") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "#PWR021") (unit 1)
         )
@@ -5551,7 +5557,7 @@
           (reference "R23") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "R23") (unit 1)
         )
@@ -5565,7 +5571,7 @@
     (property "Reference" "J5" (at 36.195 150.6601 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "CV A3" (at 36.195 152.5811 0)
+    (property "Value" "PJ398SM" (at 36.195 152.5811 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "PJ398SM:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles_3dModel" (at 36.83 157.48 0)
@@ -5583,7 +5589,7 @@
           (reference "J5") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "J5") (unit 1)
         )
@@ -5629,7 +5635,7 @@
           (reference "U3") (unit 4)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "U3") (unit 4)
         )
@@ -5663,7 +5669,7 @@
           (reference "R17") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "R17") (unit 1)
         )
@@ -5697,7 +5703,7 @@
           (reference "R29") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "R29") (unit 1)
         )
@@ -5728,7 +5734,7 @@
           (reference "D6") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "D7") (unit 1)
         )
@@ -5774,7 +5780,7 @@
           (reference "U2") (unit 5)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "U2") (unit 5)
         )
@@ -5805,7 +5811,7 @@
           (reference "D3") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "D2") (unit 1)
         )
@@ -5835,7 +5841,7 @@
           (reference "#PWR050") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "#PWR042") (unit 1)
         )
@@ -5849,7 +5855,7 @@
     (property "Reference" "J13" (at 156.845 150.6601 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "CV A7" (at 156.845 152.5811 0)
+    (property "Value" "PJ398SM" (at 156.845 152.5811 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "PJ398SM:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles_3dModel" (at 157.48 157.48 0)
@@ -5867,7 +5873,7 @@
           (reference "J13") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "J13") (unit 1)
         )
@@ -5913,7 +5919,7 @@
           (reference "U4") (unit 4)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "U4") (unit 4)
         )
@@ -5944,7 +5950,7 @@
           (reference "D4") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "D4") (unit 1)
         )
@@ -5974,7 +5980,7 @@
           (reference "#PWR017") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "#PWR016") (unit 1)
         )
@@ -6008,7 +6014,7 @@
           (reference "C3") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "C4") (unit 1)
         )
@@ -6038,7 +6044,7 @@
           (reference "#PWR048") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "#PWR059") (unit 1)
         )
@@ -6069,7 +6075,7 @@
           (reference "D2") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "D3") (unit 1)
         )
@@ -6103,7 +6109,7 @@
           (reference "C2") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "C2") (unit 1)
         )
@@ -6133,7 +6139,7 @@
           (reference "#FLG02") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "#FLG02") (unit 1)
         )
@@ -6167,7 +6173,7 @@
           (reference "C1") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "C1") (unit 1)
         )
@@ -6201,7 +6207,7 @@
           (reference "R9") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "R5") (unit 1)
         )
@@ -6247,7 +6253,7 @@
           (reference "U3") (unit 5)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "U3") (unit 5)
         )
@@ -6278,7 +6284,7 @@
           (reference "D13") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "D13") (unit 1)
         )
@@ -6312,7 +6318,7 @@
           (reference "R30") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "R30") (unit 1)
         )
@@ -6358,7 +6364,7 @@
           (reference "U1") (unit 2)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "U1") (unit 2)
         )
@@ -6388,7 +6394,7 @@
           (reference "#FLG01") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "#FLG01") (unit 1)
         )
@@ -6418,7 +6424,7 @@
           (reference "#PWR031") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "#PWR019") (unit 1)
         )
@@ -6452,7 +6458,7 @@
           (reference "R32") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "R32") (unit 1)
         )
@@ -6502,7 +6508,7 @@
           (reference "S3") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "S3") (unit 1)
         )
@@ -6516,7 +6522,7 @@
     (property "Reference" "J15" (at 156.845 207.8101 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "CV A8" (at 156.845 209.7311 0)
+    (property "Value" "PJ398SM" (at 156.845 209.7311 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "PJ398SM:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles_3dModel" (at 157.48 214.63 0)
@@ -6534,7 +6540,7 @@
           (reference "J15") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "J14") (unit 1)
         )
@@ -6564,7 +6570,7 @@
           (reference "#PWR022") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "#PWR02") (unit 1)
         )
@@ -6594,7 +6600,7 @@
           (reference "#PWR039") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "#PWR031") (unit 1)
         )
@@ -6608,7 +6614,7 @@
     (property "Reference" "J16" (at 156.845 231.9401 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "CV B8" (at 156.845 233.8611 0)
+    (property "Value" "PJ398SM" (at 156.845 233.8611 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "PJ398SM:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles_3dModel" (at 157.48 238.76 0)
@@ -6626,7 +6632,7 @@
           (reference "J16") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "J16") (unit 1)
         )
@@ -6656,7 +6662,7 @@
           (reference "#PWR033") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "#PWR025") (unit 1)
         )
@@ -6686,7 +6692,7 @@
           (reference "#PWR045") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "#PWR037") (unit 1)
         )
@@ -6717,7 +6723,7 @@
           (reference "D1") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "D1") (unit 1)
         )
@@ -6751,7 +6757,7 @@
           (reference "R3") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "R9") (unit 1)
         )
@@ -6765,7 +6771,7 @@
     (property "Reference" "J6" (at 36.195 174.7901 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "CV B3" (at 36.195 176.7111 0)
+    (property "Value" "PJ398SM" (at 36.195 176.7111 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "PJ398SM:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles_3dModel" (at 36.83 181.61 0)
@@ -6783,7 +6789,7 @@
           (reference "J6") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "J7") (unit 1)
         )
@@ -6819,7 +6825,7 @@
     (pin "2" (uuid 3fc770ef-d044-40fc-9c47-7fc399bf0087))
     (pin "3" (uuid dcc75919-23f9-4f72-9f17-e65ed860f90f))
     (instances
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "J20") (unit 1)
         )
@@ -6853,7 +6859,7 @@
           (reference "R2") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "R2") (unit 1)
         )
@@ -6883,7 +6889,7 @@
           (reference "#PWR042") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "#PWR034") (unit 1)
         )
@@ -6914,7 +6920,7 @@
           (reference "D16") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "D16") (unit 1)
         )
@@ -6944,7 +6950,7 @@
           (reference "#PWR020") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "#PWR024") (unit 1)
         )
@@ -6974,7 +6980,7 @@
           (reference "#PWR035") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "#PWR027") (unit 1)
         )
@@ -7020,7 +7026,7 @@
           (reference "U4") (unit 2)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "U4") (unit 2)
         )
@@ -7050,7 +7056,7 @@
           (reference "#PWR040") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "#PWR032") (unit 1)
         )
@@ -7080,7 +7086,7 @@
           (reference "#PWR036") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "#PWR028") (unit 1)
         )
@@ -7110,7 +7116,7 @@
           (reference "#PWR021") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "#PWR01") (unit 1)
         )
@@ -7144,7 +7150,7 @@
           (reference "R14") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "R14") (unit 1)
         )
@@ -7174,7 +7180,7 @@
           (reference "#PWR015") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "#PWR08") (unit 1)
         )
@@ -7205,7 +7211,7 @@
           (reference "D11") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "D10") (unit 1)
         )
@@ -7251,7 +7257,7 @@
           (reference "U3") (unit 3)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "U3") (unit 3)
         )
@@ -7297,7 +7303,7 @@
           (reference "U4") (unit 5)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "U4") (unit 5)
         )
@@ -7331,7 +7337,7 @@
           (reference "R31") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "R31") (unit 1)
         )
@@ -7362,7 +7368,7 @@
           (reference "D9") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "D9") (unit 1)
         )
@@ -7396,7 +7402,7 @@
           (reference "C4") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "C3") (unit 1)
         )
@@ -7410,7 +7416,7 @@
     (property "Reference" "J2" (at 37.465 57.9501 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "CV B1" (at 37.465 59.8711 0)
+    (property "Value" "PJ398SM" (at 37.465 59.8711 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "PJ398SM:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles_3dModel" (at 38.1 64.77 0)
@@ -7428,7 +7434,7 @@
           (reference "J2") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "J3") (unit 1)
         )
@@ -7462,7 +7468,7 @@
           (reference "R8") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "R12") (unit 1)
         )
@@ -7492,7 +7498,7 @@
           (reference "#PWR012") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "#PWR014") (unit 1)
         )
@@ -7526,7 +7532,7 @@
           (reference "R6") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "R4") (unit 1)
         )
@@ -7560,7 +7566,7 @@
           (reference "R24") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "R24") (unit 1)
         )
@@ -7590,7 +7596,7 @@
           (reference "#PWR028") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "#PWR012") (unit 1)
         )
@@ -7620,7 +7626,7 @@
           (reference "#PWR027") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "#PWR011") (unit 1)
         )
@@ -7651,7 +7657,7 @@
           (reference "D12") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "D12") (unit 1)
         )
@@ -7681,7 +7687,7 @@
           (reference "#PWR043") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "#PWR035") (unit 1)
         )
@@ -7727,7 +7733,7 @@
           (reference "U2") (unit 3)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "U2") (unit 3)
         )
@@ -7761,7 +7767,7 @@
           (reference "R18") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "R18") (unit 1)
         )
@@ -7795,7 +7801,7 @@
           (reference "R16") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "R16") (unit 1)
         )
@@ -7841,7 +7847,7 @@
           (reference "U2") (unit 2)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "U2") (unit 2)
         )
@@ -7875,7 +7881,7 @@
           (reference "R11") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "R7") (unit 1)
         )
@@ -7889,7 +7895,7 @@
     (property "Reference" "J8" (at 36.195 231.9401 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "CV B4" (at 36.195 233.8611 0)
+    (property "Value" "PJ398SM" (at 36.195 233.8611 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "PJ398SM:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles_3dModel" (at 36.83 238.76 0)
@@ -7907,7 +7913,7 @@
           (reference "J8") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "J8") (unit 1)
         )
@@ -7941,7 +7947,7 @@
           (reference "R1") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "R1") (unit 1)
         )
@@ -7975,7 +7981,7 @@
           (reference "R5") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "R3") (unit 1)
         )
@@ -8025,7 +8031,7 @@
           (reference "S2") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "S2") (unit 1)
         )
@@ -8055,7 +8061,7 @@
           (reference "#PWR054") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "#PWR046") (unit 1)
         )
@@ -8085,7 +8091,7 @@
           (reference "#PWR09") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "#PWR055") (unit 1)
         )
@@ -8131,7 +8137,7 @@
           (reference "U4") (unit 1)
         )
       )
-      (project "ether_v2.2"
+      (project "ether_v2"
         (path "/f6f97706-49c6-4554-978d-d9f1a0739efc"
           (reference "U4") (unit 1)
         )
