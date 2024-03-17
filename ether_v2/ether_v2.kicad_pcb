@@ -6370,7 +6370,7 @@
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp ddc9beab-e6b5-4748-a6f6-6f231bab2434))
   (gr_arc (start 79.4025 29.9975) (mid 80.109607 30.290393) (end 80.4025 30.9975)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp f33bb45a-568f-4463-a655-63a3ebd5fdf5))
-  (gr_text "Ether Twin\nv2.2 2024-03-01" (at 55.6025 32.7475) (layer "B.SilkS") (tstamp 4e60c4a0-b7d5-473d-9e5b-33bf63446ec1)
+  (gr_text "Ether Twin\nv2.3 2024-03-17" (at 55.6025 32.7475) (layer "B.SilkS") (tstamp 4e60c4a0-b7d5-473d-9e5b-33bf63446ec1)
     (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
   )
   (gr_text "GROUND" (at 55.45 49.033634) (layer "B.SilkS") (tstamp 96dca584-4dd2-48d0-b9b3-64d06b309e67)
