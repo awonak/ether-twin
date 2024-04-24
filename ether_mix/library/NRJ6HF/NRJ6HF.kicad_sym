@@ -1,0 +1,196 @@
+
+(kicad_symbol_lib (version 20211014) (generator kicad_symbol_editor)
+  (symbol "NRJ6HF" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+    (property "Reference" "J" (id 0) (at -4.06758 9.40194 0)
+      (effects (font (size 1.27 1.27)) (justify bottom left))
+    )
+    (property "Value" "NRJ6HF" (id 1) (at -4.0738 -10.9367 0)
+      (effects (font (size 1.27 1.27)) (justify bottom left))
+    )
+    (property "Footprint" "NRJ6HF:NEUTRIK_NRJ6HF" (id 2) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "MF" "Neutrik" (id 4) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "MAXIMUM_PACKAGE_HEIGHT" "12.7 mm" (id 5) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Package" "None" (id 6) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Price" "None" (id 7) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Check_prices" "https://www.snapeda.com/parts/NRJ6HF/Neutrik/view-part/?ref=eda" (id 8) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "STANDARD" "Manufacturer Recommendations" (id 9) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "PARTREV" "19.02.2021" (id 10) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "SnapEDA_Link" "https://www.snapeda.com/parts/NRJ6HF/Neutrik/view-part/?ref=snap" (id 11) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "MP" "NRJ6HF" (id 12) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Description" "\nJack Phone 1/4 in. Silver over Bronze cnts Horizontal PCB, Slim Jacks Series | Neutrik NRJ6HF\n" (id 13) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "MANUFACTURER" "Neutrik" (id 14) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Availability" "In Stock" (id 15) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "SNAPEDA_PN" "NRJ6HF" (id 16) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (symbol "NRJ6HF_0_0"
+      (polyline
+        (pts (xy 7.62 -7.62) (xy -6.604 -7.62)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 3.048 -3.302) (xy 2.54 -2.54)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 2.54 -2.54) (xy 2.032 -3.302)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 2.032 -3.302) (xy 2.54 -3.302)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 2.54 -3.302) (xy 3.048 -3.302)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 2.54 -3.302) (xy 2.54 -5.08)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 2.54 7.62) (xy 1.27 7.62)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 3.048 6.858) (xy 2.54 7.62)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 2.54 7.62) (xy 2.032 6.858)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 2.032 6.858) (xy 2.54 6.858)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 2.54 6.858) (xy 3.048 6.858)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 2.54 6.858) (xy 2.54 5.08)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 1.27 7.62) (xy -4.826 -3.556)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -4.826 -3.556) (xy -5.334 -2.54)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -6.604 -7.62) (xy -6.604 -5.334)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -6.604 -5.334) (xy -6.604 -3.302)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -6.604 -2.54) (xy -6.604 -3.302)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -6.604 -3.302) (xy -7.62 -3.302)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -7.62 -3.302) (xy -7.62 -5.334)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -7.62 -5.334) (xy -6.604 -5.334)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 3.048 1.778) (xy 2.54 2.54)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 2.54 2.54) (xy 2.032 1.778)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 2.032 1.778) (xy 2.54 1.778)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 2.54 1.778) (xy 3.048 1.778)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 2.54 1.778) (xy 2.54 0.0)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 0.762 -2.54) (xy 0.254 -3.556)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 0.254 -3.556) (xy -0.254 -2.54)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 1.27 2.54) (xy -2.286 -3.556)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -2.286 -3.556) (xy -2.794 -2.54)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 2.54 2.54) (xy 1.27 2.54)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 2.54 -2.54) (xy 0.762 -2.54)) (stroke (width 0.1524))
+      )
+      (pin passive line (at 7.62 7.62 180.0) (length 5.08)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "S"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 7.62 5.08 180.0) (length 5.08)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "SN"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 7.62 -2.54 180.0) (length 5.08)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "T"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 7.62 -5.08 180.0) (length 5.08)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "TN"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 7.62 2.54 180.0) (length 5.08)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "R"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 7.62 0.0 180.0) (length 5.08)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "RN"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+    )
+  )
+)

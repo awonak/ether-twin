@@ -12,13 +12,17 @@ Follow the ibom component placement guide [here](https://htmlpreview.github.io/?
 
 Step by step build guide [here](ether_v1/README.md).
 
-![Stand-alone](ether_v1.png "Ether Twin v1")
+![Stand-alone](ether_v1.jpg "Ether Twin v1")
 
 
 ## Ether Twin v2 - 3U
 
 Rack mount 3U 10HP version
 
-![rack-mount-front](ether_v2_front.png "Ether Twin v1")
-![rack-mount-front](ether_v2_back.png "Ether Twin v1")
-![rack-mount-front](ether_v2_panel.png "Ether Twin v1")
+*Photo Coming Soon*
+
+## Ether Mix - Stand-alone
+
+Stand-alone passive mixer
+
+![ether-mix](ether_mix.jpg "Ether Mix")
