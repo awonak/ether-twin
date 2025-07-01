@@ -1,5 +1,8 @@
 # Ether Twin v1
 
+Tutorial Video:
+https://youtu.be/pQHyfLVjiQw?si=90aeZab5XTt6bDr_
+
 ## Bill of Materials
 
 | Reference(s) | Qty | Value | Supplier Link |
